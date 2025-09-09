@@ -12,8 +12,11 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "axios": "^1.11.0",
+    "prismjs": "^1.30.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-simple-code-editor": "^0.14.1",
     "tailwind-scrollbar": "^4.0.2"
   },
   "devDependencies": {

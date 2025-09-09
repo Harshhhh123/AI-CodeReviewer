@@ -63,9 +63,11 @@
 
 /* Code input */
 .code-input {
+    height: 100%;
+    width: 100%;
   flex: 1;
-  width: 100%;
-  background: #111827;
+
+  /* background: #111827; */
   color: #d1d5db;
   padding: 12px;
   font-family: monospace;
@@ -73,6 +75,12 @@
   border: none;
   outline: none;
   resize: none;
+}
+
+.language-javascript{
+    height: 100%;
+    width: 100%;
+    border-radius : 8px;
 }
 
 /* Footer */
